@@ -1,0 +1,59 @@
+/* GERAL */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+main {
+    background-color: #FFF;
+    margin-top: 180px;
+    z-index: 998;
+}
+
+.container #msg {
+    color: #000;
+    background-color: #FFF;
+    border: 2px solid #350244fd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+/* Responsive */
+  
+@media screen and (max-width: 425px) {
+
+    main {
+        margin-top: 250px;
+    }
+
+    .container #msg {
+        font-size: 18px;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    main {
+        margin-top: 250px;
+
+    }
+
+    .container #msg {
+        font-size: 18px;
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+
+    .container #msg {
+        font-size: 18px;
+    }
+}

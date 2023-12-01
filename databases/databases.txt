@@ -1,0 +1,14 @@
+
+CREATE DATABASE projeto_cultural
+DEFAULT CHARACTER SET utf8
+DEFAULT COLLATE utf8_general_ci;
+
+CREATE TABLE students (
+
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    `name` VARCHAR(30) NOT NULL,
+    enrollment VARCHAR(20) NOT NULL,
+    `school` VARCHAR(20) NOT NULL,
+    file VARCHAR(60) NOT NULL
+
+)DEFAULT CHARSET = utf8;  
