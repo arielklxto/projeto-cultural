@@ -48,3 +48,10 @@ Let's infect the world with "Madman's Daydreams"! 🌐📚
 ## Validação dos campos input / Input validations 📄✅
 
 ![Gif do site](https://github.com/arielklxto/projeto-cultural/blob/main/gifs/site-projeto-validacoes.gif)
+
+## Responsividade / Responsiveness. 🔄📱
+
+![Gif do site](https://github.com/arielklxto/projeto-cultural/blob/main/gifs/responsividade-1.gif)
+![Gif do site](https://github.com/arielklxto/projeto-cultural/blob/main/gifs/responsividade-2.gif)
+![Gif do site](https://github.com/arielklxto/projeto-cultural/blob/main/gifs/responsividade-3.gif)
+
