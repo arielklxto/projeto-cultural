@@ -21,8 +21,7 @@ Clone, contribua, compartilhe! Vamos contagiar o mundo com Devaneios de um homem
 
 # Projeto cultural
 
-Oh, what an amazing project, my friend! 🚀✨ 
-Picture this: dive into the universe of "Os devaneios de um homem louco" with our sensational cultural project website! 📚💡 
+Dive into the universe of "Os devaneios de um homem louco" with our sensational cultural project website! 📚💡 
 Crafted with love in PHP and a powerful backend, this website is not just a page; it's a literary journey! 🌟
 
 The heart of the system? A well-structured MySQL database, ensuring efficiency and fluidity! 🤖💾 
