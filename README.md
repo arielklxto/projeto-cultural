@@ -3,8 +3,7 @@
 
 # Projeto cultural
 </br>
-Ah, que projeto incrível, meu amigo! 🚀✨ 
-Imagine só: mergulhe no universo de "Os devaneios de um homem louco" com nosso site cultural sensacional! 📚💡 
+Mergulhe no universo de "Os devaneios de um homem louco" com nosso site cultural sensacional! 📚💡 
 Desenvolvido com todo carinho em PHP e um backend poderoso, este site não é apenas uma página, é uma jornada literária! 🌟
 
 O coração do sistema? Um banco de dados MySQL super estruturado, garantindo eficiência e fluidez! 🤖💾 
