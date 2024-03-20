@@ -28,7 +28,7 @@ The heart of the system? A well-structured MySQL database, ensuring efficiency a
 Explore interactive sections, meet the characters, delve into the story's nuances. We aim to spread this good madness and promote reading in every school! 🏫📖
 
 Join us on this literary mission! Clone, contribute, share! 
-Let's infect the world with "Madman's Daydreams"! 🌐📚 
+Let's infect the world with "Os Devaneios de um Homem Louco"! 🌐📚 
 #ReadingTransforms #MadDreams #OpenSourceMagic
 
 ## Página de contato / Contact Page
